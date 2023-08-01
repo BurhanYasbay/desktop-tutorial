@@ -1,0 +1,10 @@
+C:\Users\burhan.yasbay\source\repos\ConsoleApp1\Recap\bin\Debug\Recap.exe.config
+C:\Users\burhan.yasbay\source\repos\ConsoleApp1\Recap\bin\Debug\Recap.exe
+C:\Users\burhan.yasbay\source\repos\ConsoleApp1\Recap\bin\Debug\Recap.pdb
+C:\Users\burhan.yasbay\source\repos\ConsoleApp1\Recap\obj\Debug\Recap.csprojAssemblyReference.cache
+C:\Users\burhan.yasbay\source\repos\ConsoleApp1\Recap\obj\Debug\Recap.Form1.resources
+C:\Users\burhan.yasbay\source\repos\ConsoleApp1\Recap\obj\Debug\Recap.Properties.Resources.resources
+C:\Users\burhan.yasbay\source\repos\ConsoleApp1\Recap\obj\Debug\Recap.csproj.GenerateResource.cache
+C:\Users\burhan.yasbay\source\repos\ConsoleApp1\Recap\obj\Debug\Recap.csproj.CoreCompileInputs.cache
+C:\Users\burhan.yasbay\source\repos\ConsoleApp1\Recap\obj\Debug\Recap.exe
+C:\Users\burhan.yasbay\source\repos\ConsoleApp1\Recap\obj\Debug\Recap.pdb
